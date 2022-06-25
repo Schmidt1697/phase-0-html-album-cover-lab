@@ -8,8 +8,7 @@ HAPPY
 
 <!-- BACK -->
 
-| &nbsp;&nbsp; FROM DESPICABLE ME 2 &nbsp;&nbsp; |
-
+| FROM DESPICABLE ME 2 |
 HAPPY
 
 WRITTEN BY PHARRELL WILLIAMS
@@ -22,4 +21,4 @@ PHARRELLWILLIAMS.COM
 
 COLUMBIARECORDS.COM
 
-[sony-logo.png]
+[columbia-logo.png]
